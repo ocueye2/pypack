@@ -1,5 +1,5 @@
-PyPack
-an easy way to share python scripts with requirement
+<h1>PyPack</h1>
+<h2>an easy way to share python scripts with requirement</h2>
 PyPack is a simple shell script I wrote because I wanted a one command way to run any python script. 
 It works by installing the desired python version (if needed), making a venv, and installing all of the dependencys. 
 
